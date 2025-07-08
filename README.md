@@ -1,1 +1,5 @@
-# Netflix-Dataset-Exploration-Trends-Genres-and-Content-Insights
+📦 netflix-titles-analysis
+├── netflix_titles.ipynb
+├── netflix_titles.csv
+├── README.md
+└── LICENSE (optional)
